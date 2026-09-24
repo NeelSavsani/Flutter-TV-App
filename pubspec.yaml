@@ -56,6 +56,18 @@ flutter:
   assets:
     - assets/images/
 
+  fonts:
+    - family: Ubuntu
+      fonts:
+        - asset: assets/fonts/Ubuntu-R.ttf
+          weight: 400
+
+        - asset: assets/fonts/Ubuntu-M.ttf
+          weight: 500
+
+        - asset: assets/fonts/Ubuntu-B.ttf
+          weight: 700
+
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
 
